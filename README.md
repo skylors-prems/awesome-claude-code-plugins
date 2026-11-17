@@ -109,6 +109,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [craftsman](./plugins/craftsman)
 - [rote](./plugins/rote)
 - [claude-session-tint](./plugins/claude-session-tint)
+- [autopilote](https://github.com/skylors-prems/autopilote) - Autonomous mode: give a goal, Claude splits it into tasks in `AUTOPILOTE.md`, does them one by one and adds new ones until done. Paces runs on your plan usage (week / 5-hour window), side panel with progress and settings. French UI.
 
 ### AI & Speech
 - [speech-ai](https://github.com/fasuizu-br/speech-ai-examples) - Speech AI plugin with pronunciation assessment, text-to-speech, and speech-to-text. 8 MCP tools for language learning, accessibility, and voice applications.
